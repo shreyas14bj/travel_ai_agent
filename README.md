@@ -1,14 +1,14 @@
-# 🌍 Voyage AI — Travel Intelligence Agent
+# 🌍 Travel AI — Travel Intelligence Agent
 
 > **An AI-powered Travel Planning & Tourism Intelligence Platform built with Machine Learning, Retrieval-Augmented Generation (RAG), and Generative AI.**
 
-Voyage AI brings destination discovery, travel recommendations, forecasting, personalized planning, and knowledge-grounded tourism assistance into a single intelligent application.
+Travel AI brings destination discovery, travel recommendations, forecasting, personalized planning, and knowledge-grounded tourism assistance into a single intelligent application.
 
 The platform combines traditional **Machine Learning** with modern **Generative AI + RAG** to help users explore tourism information, ask natural-language questions, and receive responses grounded in a structured tourism knowledge base.
 
 ---
 
-## ✨ What is Voyage AI?
+## ✨ What is Travel AI?
 
 Travel planning often requires users to search across multiple sources for:
 
@@ -23,7 +23,7 @@ Travel planning often requires users to search across multiple sources for:
 - 🧳 Trip planning
 - 🛡️ Travel safety
 
-**Voyage AI** brings these capabilities together through an AI-powered tourism assistant.
+**Travel AI** brings these capabilities together through an AI-powered tourism assistant.
 
 The application provides a modern Streamlit interface where users can ask questions in natural language and explore retrieved knowledge supporting the generated response.
 
@@ -76,7 +76,7 @@ The project follows a sprint-based development approach and combines data scienc
                                       │
                                       ▼
                          ┌─────────────────────────┐
-                         │       Voyage AI         │
+                         │       Travel AI         │
                          │    Travel AI Agent      │
                          └────────────┬────────────┘
                                       │
@@ -263,7 +263,7 @@ The assistant is designed to:
 
 # 💬 AI Assistant Experience
 
-Voyage AI provides a conversational interface for interacting with the tourism knowledge base.
+Travel AI provides a conversational interface for interacting with the tourism knowledge base.
 
 Users can ask questions such as:
 
@@ -489,7 +489,7 @@ The application will open in your browser.
 ```text
 Launch Application
        ↓
-Voyage AI Dashboard
+Travel AI Dashboard
        ↓
 Ask Tourism Question
        ↓
@@ -512,7 +512,7 @@ The Streamlit application is designed around a modern AI-agent dashboard experie
 
 ```text
 ┌───────────────────────────────────────────────────────────────┐
-│ 🌍 Voyage AI                                                  │
+│ 🌍 Travel AI                                                  │
 │ Travel Intelligence Platform                                  │
 ├───────────────┬───────────────────────────────────────────────┤
 │ Explore       │ Travel smarter. Explore deeper.               │
@@ -522,7 +522,7 @@ The Streamlit application is designed around a modern AI-agent dashboard experie
 │ ✈️ Planning    │  │ Ask anything about tourism...         │   │
 │ 🎒 Activities  │  └───────────────────────────────────────┘   │
 │ 💰 Budget      │                                               │
-│ ⚠️ Advisory    │  ✨ Ask Voyage AI                            │
+│ ⚠️ Advisory    │  ✨ Ask Travel AI                            │
 │               │                                               │
 │ Session       │  ───────────────────────────────────────────  │
 │ Questions     │  🤖 AI Response                               │
@@ -582,7 +582,7 @@ The project provides practical experience in developing AI applications that com
 
 # 👥 Team Project
 
-**Project:** Voyage AI / Travel AI Agent  
+**Project:** Travel AI / Travel AI Agent  
 **Domain:** Travel & Tourism  
 **Technologies:** Python, Machine Learning, RAG, LangChain, LLMs, ChromaDB, Streamlit
 
